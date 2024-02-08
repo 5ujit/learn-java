@@ -2,6 +2,8 @@ public class DataType {
     public static void main(String[] args) {
         int num = 1;
         byte by = 23;
+
+        
         short sh = 29333;
         long l = 299999999;
 
