@@ -1,0 +1,7 @@
+parameter passing 
+pass by value /call by value
+
+3 method overloding
+
+create 4 function with diff argument and call 
+			by using method overloding
