@@ -6,7 +6,7 @@ public class If_Else_If {
         int y= 7;
         int z= 9;
 
-        if(x>y && x>z)
+        if(x>y && x>z) //false
         {
             System.out.println(x);
             System.out.println("Thanks you");
