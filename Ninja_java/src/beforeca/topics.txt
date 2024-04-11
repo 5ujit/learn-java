@@ -1,0 +1,54 @@
+Sure, here is the list of topics covered in Units II, III, and IV:
+
+Unit II:
+1. Loops
+   - for loop
+   - while loop
+   - do-while loop
+   - for-each loop
+2. Arrays and Enums
+   - Fundamentals about Arrays
+   - Multi-dimensional arrays
+   - Array Access and Iterations
+   - Using varargs
+   - Enumerations
+
+   
+3. OOP Concepts
+   - Basics of class and objects
+   - Writing constructors and methods
+   - Overloading methods and constructors
+   - `this` keyword
+   - Initializer blocks
+4. String Class
+   - Constructors and methods of String
+   - StringBuilder class
+
+
+
+
+          CA 👇👇👇 👇👇👇 👇👇👇 👇👇👇 👇👇👇 👇👇👇 👇👇👇 👇👇👇 👇👇👇
+Unit III:
+1. Inheritance and Polymorphism
+   - Inheritance
+   - Method overriding
+   - `super` keyword
+   - Object class and overriding `toString()` and `equals()` method
+   - Using `super` and `final` keywords
+   - `instanceof` operator
+2. Abstract Class and Interface
+   - Abstract method and abstract class
+   - Interfaces
+   - Static and default methods
+   - Using Swing Components to demonstrate inheritance
+
+Unit IV:
+1. Functional Interface and Lambda Expressions
+   - Using Lambda expressions
+   - Implementing Threads using Lambda expressions
+   - Implementing Listener using Lambda expressions
+2. Nested Class
+   - Understanding the importance of static and non-static nested classes
+   - Local and Anonymous class
+3. Utility Classes
+   - Working with Dates
