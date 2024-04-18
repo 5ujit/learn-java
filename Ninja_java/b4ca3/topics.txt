@@ -1,0 +1,48 @@
+Sure, here's a breakdown of the topics for Units V and VI:
+
+**Unit V: Exceptions and Assertions** 
+1. Exception overview
+   - What is an exception?
+   - Why do exceptions occur?
+2. Exception class hierarchy and exception types
+   - Checked exceptions
+   - Unchecked exceptions
+   - Errors
+3. Propagation of exceptions
+   - How exceptions propagate through the call stack
+4. Using try, catch, and finally for exception handling
+   - Syntax and usage of try-catch blocks
+   - Finally block for cleanup actions
+5. Usage of throw and throws
+   - Throwing exceptions manually
+   - Declaring exceptions with the throws keyword
+6. Handling multiple exceptions using multi-catch
+   - Catching multiple exceptions in a single catch block
+7. Autoclose resources with try-with-resources statement
+   - Automatic resource management using try-with-resources
+8. Creating custom exceptions
+   - Extending the Exception class or one of its subclasses
+9. Testing invariants by using assertions
+   - Using assertions to validate assumptions in code
+
+**Unit VI: Collections and Generics**
+1. Creating a custom generic class
+   - Syntax for defining generic classes
+2. Using the type inference diamond to create an object
+   - Diamond operator <>
+3. Using bounded types and Wildcards
+   - Specifying upper and lower bounds for type parameters
+   - Using wildcard types (?)
+4. Creating a collection by using generics
+   - Creating parameterized collections like ArrayList, HashMap, etc.
+5. Implementing an ArrayList
+   - Understanding the ArrayList data structure and methods
+6. Implementing TreeSet using Comparable and Comparator interfaces
+   - Sorting elements in a TreeSet
+   - Implementing custom sorting logic using Comparable and Comparator interfaces
+7. Implementing a HashMap
+   - Understanding the HashMap data structure and methods
+8. Implementing a Deque
+   - Understanding the Deque interface and its implementations
+
+These topics cover a broad range of Java programming concepts related to exceptions handling, input/output operations, collections, and generics.
