@@ -1,15 +1,17 @@
 // check the integer is even or odd ??
-import java.util.*;
-public class First{
-  public static void main(String []a){
-    Scanner oe= new Scanner(System.in);
+import java.util.Scanner;
 
-    System.out.println("Enter a number");
+public class First {
+    public static void main(String[] args) {
+        Scanner oddEv = new Scanner(System.in);
 
-    int num = oe.nextInt();
+        System.out.println("Enter a number:");
 
-    System.out.println(num);
+        int num = oddEv.nextInt();
 
+        System.out.println("You entered: " + num);
 
-  }
+        // Close the Scanner to release resources
+        oddEv.close();
+    }
 }
