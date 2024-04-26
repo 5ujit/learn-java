@@ -2,7 +2,7 @@ public class MultipalTryCatch {
   public static void main(String []args){
 
     try{
-      int a=10, b= 5 ,c;
+      int a=10, b= 0 ,c;
       c=a/b;
       System.out.println(c);
 
@@ -12,7 +12,12 @@ public class MultipalTryCatch {
       System.out.println("cant divide by zerp");
 
     }
-    try{
+
+
+
+
+    
+       try{
       int a[]={10,20,30,2,2};
       System.out.println(a[10]);
 
